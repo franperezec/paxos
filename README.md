@@ -51,13 +51,6 @@ Una vez que los nodos estén ejecutándose, puedes proponer valores escribiendo 
 ```
 propose mi_valor
 ```
-
-## Verificación
-Para verificar que la red está correctamente configurada:
-```bash
-python verificar_red_zerotier.py
-```
-
 ## Estructura del Proyecto
 - `config.py` - Configuración de nodos y parámetros de red
 - `network.py` - Capa de comunicación UDP
@@ -66,4 +59,4 @@ python verificar_red_zerotier.py
 - `verificar_red_zerotier.py` - Verificación de conectividad
 
 ## Grupo 7
-Francisco, Pablo, Farith
+Francisco, Pablo, Farith, Fernando
